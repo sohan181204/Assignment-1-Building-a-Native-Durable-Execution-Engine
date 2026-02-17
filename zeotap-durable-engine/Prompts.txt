@@ -1,0 +1,14 @@
+Tool: ChatGPT
+Purpose: Design understanding and architecture clarification
+
+Prompts Used:
+1. "Explain durable execution engines and step memoization patterns"
+2. "How do workflow engines handle crash recovery and replay?"
+3. "Explain zombie step problems and mitigation strategies"
+4. "Explain Saga pattern and compensating transactions"
+5. "How to safely handle concurrency with SQLite in Java"
+
+Usage:
+AI assistance was used for conceptual understanding and design validation.
+All code was written, reviewed, and integrated manually.
+
